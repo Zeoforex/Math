@@ -1,5 +1,4 @@
-"# Math" 
-<img src="https://github.com/Zeoforex/Math/blob/jpg/jpg/6mNq4o4egSE.jpg" align="right" width="150" height="150"/>
+<img src="https://github.com/Zeoforex/Math/blob/jpg/jpg/6mNq4o4egSE.jpg" align="right" width="250" height="250"/>
 ## Вся математика, которую я буду учить!
 Для связи со мной. [Кликай](https://vk.com/zeoforex)
 ### Математический анализ
